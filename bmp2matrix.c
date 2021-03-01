@@ -1,4 +1,4 @@
-/* bmp2matrix-2.c
+/* bmp2matrix.c
  *
  * This code acquires 3 matrices for 3 channels (RGB)
  * of a BMP image.
